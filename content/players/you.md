@@ -1,0 +1,3 @@
+- you are also a player
+- does not like [[me]]
+- ![[Pasted image 20250616005453.png]]

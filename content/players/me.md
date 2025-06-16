@@ -1,0 +1,4 @@
+- im a player!
+- likes [[you]]
+- born in [[westplace]]
+- ![[Pasted image 20250616005435.png]]
