@@ -1,4 +1,4 @@
 - im a player!
 - likes [[you]]
-- born in [[westplace]]
+- born in [[bobtown]]
 - ![[Pasted image 20250616005435.png]]
