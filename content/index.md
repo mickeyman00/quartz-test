@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: What is "updog"?
 ---
 
 click [[me|here]] for lore
