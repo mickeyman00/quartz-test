@@ -1,1 +1,1 @@
-![[Drawing 2025-06-16 01.14.52.excalidraw]]
+![[Drawing 2025-06-16 01.14.52.excalidraw.svg]]
